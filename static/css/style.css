@@ -5,3 +5,15 @@
 .flashes {
     line-height: 2;
 }
+
+.collapsible-header {
+    align-items: center;
+}
+
+.btn {
+    margin : 5px;
+}
+
+.collapsible-header p {
+    display: inline;
+}
